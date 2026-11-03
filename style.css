@@ -658,7 +658,7 @@ h2 {
   margin-top: 10px;
 }
 
-/* .our-partners .logos {
+.our-partners .logos {
   grid-template-columns: repeat(4, 1fr);
 }
 
@@ -670,7 +670,7 @@ h2 {
   max-height: 45px;
 }
 
-.bottom-banner {
+/* .bottom-banner {
   background: url("./Rectangle 1992 (1).svg") center / cover no-repeat;
   color: white;
   text-align: center;
