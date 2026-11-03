@@ -146,7 +146,7 @@ h2 {
   gap: 20px;
 }
 
-/* .card {
+.card {
   background: white;
   border: none;
   border-radius: 8px;
@@ -172,7 +172,7 @@ h2 {
   margin-bottom: 15px;
 }
 
-.big-banner {
+/* .big-banner {
   min-height: 450px;
   background: url("./Rectangle\ 1992.svg") center / cover no-repeat;
   color: white;
