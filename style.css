@@ -65,7 +65,7 @@ h2 {
   white-space: nowrap;
 }
 
-/* .hero {
+.hero {
   min-height: 600px;
   display: flex;
   align-items: center;
@@ -90,7 +90,7 @@ h2 {
   margin-bottom: 25px;
 }
 
-.services,
+/* .services,
 .cards,
 .market,
 .about,
