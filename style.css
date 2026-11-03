@@ -369,7 +369,7 @@ h2 {
   object-fit: contain;
 }
 
-/* .program .accordion {
+.program .accordion {
   border: 1px solid #e5e9ed;
 }
 
@@ -391,7 +391,7 @@ h2 {
   margin-top: 20px;
 }
 
-.partners {
+/* .partners {
   background: url("./Group 796.svg") center / cover no-repeat;
   padding: 55px 10%;
   display: flex;
