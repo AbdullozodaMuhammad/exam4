@@ -536,7 +536,7 @@ h2 {
   font-size: 12px;
 }
 
-/* .who-box {
+.who-box {
   display: flex;
   align-items: center;
   gap: 30px;
@@ -624,7 +624,7 @@ h2 {
   object-fit: cover;
 }
 
-.people {
+/* .people {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 25px;
