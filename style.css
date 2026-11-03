@@ -199,7 +199,7 @@ h2 {
   line-height: 24px;
 }
 
-/* .market-tabs {
+.market-tabs {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   background: #f0f2f5;
@@ -308,7 +308,7 @@ h2 {
   color: white;
 }
 
-.about-text {
+/* .about-text {
   font-size: 14px;
   line-height: 23px;
   color: #777;
