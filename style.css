@@ -172,7 +172,7 @@ h2 {
   margin-bottom: 15px;
 }
 
-/* .big-banner {
+.big-banner {
   min-height: 450px;
   background: url("./Rectangle\ 1992.svg") center / cover no-repeat;
   color: white;
@@ -199,7 +199,7 @@ h2 {
   line-height: 24px;
 }
 
-.market-tabs {
+/* .market-tabs {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   background: #f0f2f5;
