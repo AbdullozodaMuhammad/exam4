@@ -670,7 +670,7 @@ h2 {
   max-height: 45px;
 }
 
-/* .bottom-banner {
+.bottom-banner {
   background: url("./Rectangle 1992 (1).svg") center / cover no-repeat;
   color: white;
   text-align: center;
@@ -697,7 +697,7 @@ h2 {
   background: linear-gradient(90deg, #65b6db, #1686c0);
 }
 
-.events .three {
+/* .events .three {
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
