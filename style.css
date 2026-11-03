@@ -438,7 +438,7 @@ h2 {
   object-fit: contain;
 }
 
-/* .results .three {
+.results .three {
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
@@ -464,7 +464,7 @@ h2 {
   line-height: 18px;
 }
 
-.advantages .three {
+/* .advantages .three {
   grid-template-columns: repeat(3, 1fr);
   gap: 18px;
   align-items: stretch;
