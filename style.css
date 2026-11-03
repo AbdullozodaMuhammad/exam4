@@ -391,7 +391,7 @@ h2 {
   margin-top: 20px;
 }
 
-/* .partners {
+.partners {
   background: url("./Group 796.svg") center / cover no-repeat;
   padding: 55px 10%;
   display: flex;
@@ -438,7 +438,7 @@ h2 {
   object-fit: contain;
 }
 
-.results .three {
+/* .results .three {
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
