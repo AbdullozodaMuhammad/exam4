@@ -464,7 +464,7 @@ h2 {
   line-height: 18px;
 }
 
-/* .advantages .three {
+.advantages .three {
   grid-template-columns: repeat(3, 1fr);
   gap: 18px;
   align-items: stretch;
@@ -536,7 +536,7 @@ h2 {
   font-size: 12px;
 }
 
-.who-box {
+/* .who-box {
   display: flex;
   align-items: center;
   gap: 30px;
